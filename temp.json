@@ -1,0 +1,171 @@
+[
+    {
+        "name": "CHATEAU DE SAINT COSME",
+        "year": "2009",
+        "categories": [
+            {
+                "label": "rouge"
+            }
+        ],
+        "grape_variety": "Grenache",
+        "country": "France",
+        "region": "Gigondas / Côtes du Rhône sud",
+        "description": "Les arômes de fruits et d'épices donnent un aperçu de la légèreté de ce délicieux vin, qui constitue un excellent accompagnement pour les plats de poisson"
+    },
+    {
+        "name": "CHAMPAGNE PHILIPPONAT",
+        "year": "2023",
+        "categories": [
+            {
+                "label": "effervescent"
+            }
+        ],
+        "grape_variety": "Pinot Noir, Chardonnay",
+        "country": "France",
+        "region": "Champagne",
+        "description": "Vins non millésimé dominé par le pinot noir. La dernière édition présente des abricots mûrs, des agrumes d'orange et des framboises pâles, soutenus par l'énergie précise d'un zeste de citron et la résonance subtile d'une réserve perpétuelle élevée en chêne à 34 %. Irrésistible."
+    },
+    {
+        "name": "LAN RIOJA CRIANZA",
+        "year": "2006",
+        "categories": [
+            {
+                "label": "rouge"
+            }
+        ],
+        "grape_variety": "Tempranillo",
+        "country": "Espagne",
+        "region": "Rioja",
+        "description": "A resurgence of interest in boutique vineyards has opened the door for this excellent foray into the dessert wine market. Light and bouncy, with a hint of black truffle, this wine will not fail to tickle the taste buds."
+    },
+    {
+        "name": "MARGERUM SYBARITE",
+        "year": "2010",
+        "categories": [
+            {
+                "label": "blanc"
+            }
+        ],
+        "grape_variety": "Sauvignon blanc",
+        "country": "Etats-Unis",
+        "region": "Côte centrale de Californie",
+        "description": "Le stock d'un excellent Cabernet dans une cave à vin peut maintenant être remplacé par un vin délicieusement espiègle débordant de saveurs tentantes de cerise noire et de réglisse. Ce goût est sûr de vous transporter dans le passé."
+    },
+    {
+        "name": "CUVÉE DU VATICAN - RÉSERVE SIXTINE",
+        "year": "2007",
+        "categories": [
+            {
+                "label": "rouge"
+            }
+        ],
+        "grape_variety": "Grenache",
+        "country": "France",
+        "region": "Chateau neuf du pape / Vallée du Rhône Sud",
+        "description": "Un subtile mélange de poivre noir et de piment jalapeño fera vaciller vos sens, tandis que l'essence d'orange vous ramènera à la réalité. Ne manquez pas cette sensation gustative primée"
+    },
+    {
+        "name": "REX HILL",
+        "year": "2009",
+        "categories": [
+            {
+                "label": "rouge"
+            }
+        ],
+        "grape_variety": "Pinot Noir",
+        "country": "USA",
+        "region": "Oregon",
+        "description": "On ne peut douter que ce sera le vin servi lors des remises de prix à Hollywood, car il a un pouvoir de star indéniable. Soyez le premier à découvrir cette première dont tout le monde parlera demain."
+    },
+    {
+        "name": "VITICCIO CLASSICO RISERVA",
+        "year": "2007",
+        "categories": [
+            {
+                "label": "rouge"
+            }
+        ],
+        "grape_variety": "Sangiovese Merlot",
+        "country": "Italie",
+        "region": "Toscane",
+        "description": "Bien que doux et rond en texture, le corps de ce vin est plein, riche et ô combien attrayant. Cette prestation est encore plus impressionnante lorsque l'on prend note des tanins tendres qui laissent les papilles entièrement satisfaites."
+    },
+    {
+        "name": "BODEGA LURTON",
+        "year": "2001",
+        "categories": [
+            {
+                "label": "blanc"
+            }
+        ],
+        "grape_variety": "Pinot Gris",
+        "country": "Argentine",
+        "region": "Mendoza",
+        "description": "Des notes solides de cassis mélangées à des touches légères d'agrumes font de ce vin un choix facile pour des palais variés."
+    },
+    {
+        "name": "CHATEAU LE DOYENNE",
+        "year": "2005",
+        "categories": [
+            {
+                "label": "rouge"
+            }
+        ],
+        "grape_variety": "Merlot",
+        "country": "France",
+        "region": "Bordeaux",
+        "description": "Bien que dense et moelleux, ce vin ne domine pas grâce à sa profondeur et sa structure finement équilibrées. C'est une expérience vraiment luxueuse pour les sens."
+    },
+    {
+        "name": "DOMAINE DU BOUSCAT",
+        "year": "2009",
+        "categories": [
+            {
+                "label": "rouge"
+            }
+        ],
+        "grape_variety": "Merlot",
+        "country": "France",
+        "region": "Bordeaux",
+        "description": "La couleur dorée claire de ce vin dissimule la fraîcheur de ses arômes. Un véritable vin d'été, il appelle à un déjeuner pique-nique dans un vignoble baigné de soleil."
+    },
+    {
+        "name": "BLOCK NINE",
+        "year": "2009",
+        "categories": [
+            {
+                "label": "rouge"
+            }
+        ],
+        "grape_variety": "Pinot Noir",
+        "country": "Etats-Unis",
+        "region": "Californie",
+        "description": "Avec des notes de gingembre et d'épices, ce vin constitue un excellent complément pour des hors-d'œuvre légers et des desserts lors d'un rassemblement festif."
+    },
+    {
+        "name": "DOMAINE SERENE",
+        "year": "2007",
+        "categories": [
+            {
+                "label": "rouge"
+            }
+        ],
+        "grape_variety": "Pinot Noir",
+        "country": "EtatsUnis",
+        "region": "Oregon",
+        "description": "Bien que subtile dans ses complexités, ce vin est sûr de plaire à un large éventail d'amateurs. Les notes de grenade raviront alors que la touche légèrement noisetée complète l'image d'une expérience de dégustation raffinée."
+    },
+    {
+        "name": "LES MORIZOTTES",
+        "year": "2009",
+        "categories": [
+            {
+                "label": "blanc"
+            }
+        ],
+        "grape_variety": "Chardonnay",
+        "country": "France",
+        "region": "Bourgogne",
+        "description": "En rompant avec les classiques, cette proposition surprendra et ne manquera pas de faire parler d'elle avec ses notes de café et de tabac parfaitement harmonisées avec des notes plus traditionnelles. Elle est certaine de plaire au public des noctambules avec la légère montée d'adrénaline qu'elle apporte."
+    }
+]
