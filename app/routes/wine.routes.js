@@ -1,13 +1,14 @@
 const express = require('express');
+const auth = require('../middlewares/auth.middleware');
 const router = express.Router();
 
 const { getAllWine, createWine , deleteWine, updateWine, searchWines } = require('../controllers/wine.controller');
 
-router.get("/", getAllWine);
-router.get("/:category", searchWines);
-router.delete("/:id", deleteWine);  
-router.put("/:id", updateWine);
-router.post("/", createWine);
+router.get("/", auth , getAllWine);
+router.get("/:category", auth, searchWines);
+router.delete("/:id", auth, deleteWine);  
+router.put("/:id", auth, updateWine);
+router.post("/", auth, createWine);
 
 
 module.exports = router;

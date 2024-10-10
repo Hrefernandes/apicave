@@ -9,7 +9,7 @@ module.exports.createWine = [
     // Vérifie que les catégories existent effectivement
     const check = await checkCategories(labels, res);
     if (check !== true) {
-      return res.status(400).json({ message: "Catégorie(s) inconnue(s)" });
+      return res.status(400).json({ message: "Vin(s) inconnue(s)" });
     }
     try {
       const wine = await Wine.create(req.body);
@@ -34,7 +34,7 @@ module.exports.deleteWine = [
       if (wine === null) {
         return res
           .status(404)
-          .json({ message: "Cette catégorie n'existe pas" });
+          .json({ message: "Ce vin n'existe pas" });
       } else {
         await category.deleteOne({ _id: id });
         res.status(200).json({ message: `Vin supprimé: ${id}` });
@@ -52,7 +52,7 @@ module.exports.updateWine = [
       const labels = req.body.categories.map((cat) => cat.label);
       const check = await checkCategories(labels, res);
       if (check !== true) {
-        return res.status(400).json({ message: "Catégorie(s) inconnue(s)" });
+        return res.status(400).json({ message: "Vin(s) inconnue(s)" });
       }
     }
     try {
